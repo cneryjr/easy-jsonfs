@@ -1,4 +1,4 @@
-# jsonfs
+# easy-jsonfs
 
 Handles JSON file directly through methods to get, set, remove, getAll and save.
 
