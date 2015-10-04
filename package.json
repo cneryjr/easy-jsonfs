@@ -1,5 +1,5 @@
 {
-  "name": "jsonfs",
+  "name": "easy-jsonfs",
   "version": "0.1.0",
   "description": "Handles JSON file directly through methods to get, set, remove, getAll and save.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cneryjr/jsonfs.git"
+    "url": "git+https://github.com/cneryjr/easy-jsonfs.git"
   },
   "keywords": [
     "json",
