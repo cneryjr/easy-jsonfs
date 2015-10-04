@@ -1,0 +1,28 @@
+{
+  "name": "jsonfs",
+  "version": "0.1.0",
+  "description": "Handles JSON file directly through methods to get, set, remove, getAll and save.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cneryjr/jsonfs.git"
+  },
+  "keywords": [
+    "json",
+    "file",
+    "manipulation",
+    "persistence"
+  ],
+  "author": "Nery Jr <cneryjr@yahoo.com.br> (https://github.com/cneryjr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cneryjr/jsonfs/issues"
+  },
+  "homepage": "https://github.com/cneryjr/jsonfs#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
