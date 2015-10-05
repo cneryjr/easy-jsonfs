@@ -38,3 +38,6 @@ Assuming the package.json file has the following content:
 ## Release History
 
 * 0.1.0 October/2015 - Initial release
+* 0.1.1 October/2015 - Increment documentation
+* 0.1.3 October/2015 - Fix 'path' module required
+
