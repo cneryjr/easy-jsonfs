@@ -10,8 +10,6 @@ Handles JSON file directly through methods to get, set, remove, getAll and save.
 
 Assuming the package.json file has the following content:
 
-<!-- language: lang-javascript -->
-
 ```javascript
 
 	{
