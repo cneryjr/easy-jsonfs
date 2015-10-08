@@ -4,13 +4,13 @@ Handles JSON file directly through methods to get, set, remove, getAll and save.
 
 ## Installation
 
-  npm install jsonfs --save
+  npm install easy-jsonfs --save
 
 ## Usage
 
 Assuming the package.json file has the following content:
 
-<!-- language:javascript -->
+<!-- language: lang-js -->
 
 	{
 	  "name": "easy-jsonfs",
@@ -25,7 +25,7 @@ Assuming the package.json file has the following content:
 	  .
 	  .
 
-<!-- language:javascript -->
+<!-- language-all: lang-js -->
 
     var store = new Store('./package.json');
 
@@ -40,4 +40,4 @@ Assuming the package.json file has the following content:
 * 0.1.0 October/2015 - Initial release
 * 0.1.1 October/2015 - Increment documentation
 * 0.1.3 October/2015 - Fix 'path' module required
-
+* 0.1.4 October/2015 - Fix README.md # Installation section

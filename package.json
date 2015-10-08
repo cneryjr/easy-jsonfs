@@ -1,6 +1,6 @@
 {
   "name": "easy-jsonfs",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Handles JSON file directly through methods to get, set, remove, getAll and save.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "author": "Nery Jr <cneryjr@yahoo.com.br> (https://github.com/cneryjr)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cneryjr/jsonfs/issues"
+    "url": "https://github.com/cneryjr/easy-jsonfs/issues"
   },
   "homepage": "https://github.com/cneryjr/easy-jsonfs#readme",
   "dependencies": {
