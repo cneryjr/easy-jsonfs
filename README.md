@@ -10,8 +10,9 @@ Handles JSON file directly through methods to get, set, remove, getAll and save.
 
 Assuming the package.json file has the following content:
 
-<!-- language: lang-js -->
-```json
+<!-- language: lang-javascript -->
+
+```javascript
 
 	{
 	  "name": "easy-jsonfs",
@@ -25,8 +26,8 @@ Assuming the package.json file has the following content:
 	  .
 	  .
 	  .
-```
-<!-- language-all: lang-js -->
+	}
+
 
     var store = new Store('./package.json');
 
@@ -35,6 +36,7 @@ Assuming the package.json file has the following content:
 
     store.set('repository.info', 'repo in github');
     aux = store.get('repository.info'); 			// aux = "repo in github"
+```
 
 ## Release History
 
@@ -42,3 +44,7 @@ Assuming the package.json file has the following content:
 * 0.1.1 October/2015 - Increment documentation
 * 0.1.3 October/2015 - Fix 'path' module required
 * 0.1.4 October/2015 - Fix README.md # Installation section
+
+## License
+
+(MIT License)
